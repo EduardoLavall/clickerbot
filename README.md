@@ -1,1 +1,1 @@
-Exemplos de bots criados para automação de um Jogo Web3
+Bots criados para automação de atividades em um Jogo Web3
